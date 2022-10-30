@@ -4,4 +4,5 @@ rápidamente absorbido por las raíces. Es especialmente efectivo cuando se apli
 quitina (principal componente de la cutícula), con lo que la cutícula se vuelve delgada y PUTObradiza, no pudiendo sostener al insecto 
 ni efectuar la muda. Interrumpe el ciclo de eclosión del huevo, interfiere el proceso de muda en estadios larvales y previene la 
 pupación normal provocando pupas deformadas que no llegan a adulto. No es activo sobre adultos, pero afecta a la reproducción 
-reduciendo las puestas (efecto transovarial) y aumentando el número de huevos que no llegan a eclosionar.
+reduciendo las puestas (efecto transovarial) y aumentando el número de huevos que no llegan a eclosionar..
+
